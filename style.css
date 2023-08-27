@@ -1,0 +1,97 @@
+body
+{
+    text-align: center;
+}
+#welcome {
+    color: #193f16;
+    bottom: 0;
+    background-image:url('background.png');
+    background-size:contain;
+    background-position:inherit;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+#bio {
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height:fit-content;
+    background-color: #000;
+    width: 70px;
+    margin: 40px auto;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+
+
+#videos iframe
+{
+    width: 80%;
+}
+
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
+#logo{
+  width: 30%;
+}
+#coding {
+    
+   
+    background-color: #E51E58;
+    background-image:url('S-coding.png');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    
+    
+    }
+#roblox {
+    background-color: #1590AE;
+    background-image:url('S-roblox.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    }
+#minecraft 
+{
+    background-color: #ffffff;
+    background-image:url('S-minecraft.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+        
+}
+#web 
+{
+    background-color: #000000;
+    background-image:url('S-web.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+        
+}
